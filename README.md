@@ -1,9 +1,10 @@
-### Hi there 👋 Welcome to my profile.
+## Hi there 👋 Welcome to my profile.
 
-![stats](https://github-readme-stats.vercel.app/api?username=demonkillerr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=1)
+I am Gaurang. I love to contribute to open source projects, and learn new things in the space of Technology. 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demonkillerr&" alt="demonkillerr" /></p>
+  ![stats](https://github-readme-stats.vercel.app/api?username=demonkillerr&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=1)
+  <br><br>
+  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=demonkillerr&theme=radical)](https://git.io/streak-stats)
 
 
 <!--
