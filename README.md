@@ -1,7 +1,6 @@
 ## Hi there 👋 Welcome to my profile.
 
-I am Gaurang. I am experienced in C++, Python, JS, and related technologies.
-  
+I am Gaurang. I am experienced in C, C++, Python, & JS. Currently learning OpenMP and MPI.  
   <br><br>
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=demonkillerr&theme=radical)](https://git.io/streak-stats)
 
